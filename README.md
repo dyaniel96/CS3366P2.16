@@ -2,7 +2,7 @@
 
 [Github page](https://dyaniel96.github.io/CS3366P2.16/)(Link:https://dyaniel96.github.io/CS3366P2.16/)<br/>
 
-[Repository page](https://github.com/dyaniel96/CS3366P2.16)(Link:https://github.com/dyaniel96/CS3366P2.16)<br/>
+[Repository page](https://github.com/dyaniel96/CS3366P2.16/)(Link:https://github.com/dyaniel96/CS3366P2.16)<br/>
 
 
 ## 2D Game : Fingerless Raider
