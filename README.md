@@ -28,6 +28,7 @@ Boss fight<br/>
 
 ## Citation/Resource
 - [Unity Engine](https://unity.com/)<br/>
+- [Microsoft Speech SDK 1.8.0](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/releasenotes)<br/>
 - [Free Platform Game Assets](https://assetstore.unity.com/packages/2d/environments/free-platform-game-assets-85838)<br/>
 - [Sunny Land](https://assetstore.unity.com/packages/2d/characters/sunny-land-103349)<br/>
 - [Free Sound Effects Pack](https://assetstore.unity.com/packages/audio/sound-fx/free-sound-effects-pack-155776)<br/>
