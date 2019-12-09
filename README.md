@@ -25,7 +25,8 @@ Based on TTU Raider <br/>
 ### 2D Platformer Level Design 
 Boss fight<br/>
 ![UnityGameplay](https://github.com/dyaniel96/CS3366P2.16/blob/master/PIC/LevelDesign.png?raw=true)
-
+### Gameplay
+![UnityGameplay](https://github.com/dyaniel96/CS3366P2.16/blob/master/PIC/UnityGameplay.gif?raw=true)
 ## Citation/Resource
 - [Unity Engine](https://unity.com/)<br/>
 - [Microsoft Speech SDK 1.8.0](https://docs.microsoft.com/en-us/azure/cognitive-services/speech-service/releasenotes)<br/>
