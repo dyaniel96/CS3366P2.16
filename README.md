@@ -21,9 +21,9 @@ In this project, we are going to design a simple 2D platform game where the play
 ## Game Design
 ### Character Pixel Art
 Based on TTU Raider <br/>
-
 ![Character](https://github.com/dyaniel96/CS3366P2.16/blob/master/PIC/Character.png?raw=true)
 ### 2D Platformer Level Design 
+Boss fight<br/>
 ![UnityGameplay](https://github.com/dyaniel96/CS3366P2.16/blob/master/PIC/LevelDesign.png?raw=true)
 
 ## Citation/Resource
