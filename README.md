@@ -11,14 +11,20 @@ In this project, we are going to design a simple 2D platform game where the play
 ### Duty
 - Jeffrey Ndimele: UI layout, character movement(Voice control) 
 - Jiayu Yan: character design, sound effect
-- Jonathan Andrew Turner: 2d platformer Level design, 
-- Jose Luis Garcia: Enemey fight, 2d platformer level design 
+- Jonathan Andrew Turner: 2D platformer Level design, 
+- Jose Luis Garcia: Enemey fight, 2D platformer level design 
 
 ## UI Sketch
 ![Menu](https://user-images.githubusercontent.com/15820167/69390111-cdc22500-0c93-11ea-83c5-8f8e8e6c70d4.jpg)
 ![Gameplay](https://user-images.githubusercontent.com/15820167/69390133-dca8d780-0c93-11ea-9657-132f5ab7b5ac.jpg)
 
 ## Game Design
+### Character Pixel Art
+Based on TTU Raider <br/>
+
+![Character](https://github.com/dyaniel96/CS3366P2.16/blob/master/PIC/Character.png?raw=true)
+### 2D Platformer Level Design 
+![UnityGameplay](https://github.com/dyaniel96/CS3366P2.16/blob/master/PIC/Gameplay.png?raw=true)
 
 ## Citation/Resource
 - [Unity Engine](https://unity.com/)<br/>
