@@ -9,9 +9,9 @@
 In this project, we are going to design a simple 2D platform game where the player uses their voice to guide and control their character.
 
 ### Duty
-- Jeffrey Ndimele: UI Layout, Character movement(Voice control) 
+- Jeffrey Ndimele: UI Layout, Character movement(Voice control), Boss Fight
 - Jiayu Yan: Character design, Sound Effect
-- Jonathan Andrew Turner: 2D Platformer Level Design, Boss Fight
+- Jonathan Andrew Turner: Menu Design, 2D Platformer Level Design
 - Jose Luis Garcia: Enemey Fight, 2D Platformer Level Design 
 
 ## UI Sketch
